@@ -1,1 +1,2 @@
-this is a.txt. This is added in javagitproject. hello world from javagitproject
+this is a.txt. 
+this is not new feature.

@@ -1,2 +1,2 @@
-this is a.txt
+0000000000000000000000000000000000000
 this is suresh adding new line to a.txt.

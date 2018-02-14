@@ -1,3 +1,0 @@
-this is a.txt. This is added in javagitproject. hello world from javagitproject
-This is added new line by javagitproject.
-

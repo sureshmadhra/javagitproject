@@ -1,3 +1,0 @@
-this is a.txt. 
-this is not new feature.
-this is being added by suresh
